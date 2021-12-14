@@ -14,6 +14,7 @@ The tables in the raw data file are as follows:
 
 - unemployment
 
+date	Year	Month	labor force	employment	unemployment	unemployment rate
 
 
 
